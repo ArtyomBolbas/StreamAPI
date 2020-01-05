@@ -1,4 +1,4 @@
-package com.bolbas.app.informationOperation;
+package com.bolbas.app.reduceOperation;
 
 import java.util.ArrayList;
 import java.util.Optional;
@@ -28,7 +28,7 @@ public class StreamDemo2 {
            else
                return a;
         });
-        System.out.println("Произведение только четных значений, типа int: " + evenProduct);
+        System.out.println("\nПроизведение только четных значений, типа int: " + evenProduct);
 
     }
 }
