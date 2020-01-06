@@ -6,6 +6,10 @@ public class Runner {
 		//Collection
 		//Consumer -> andThen()
 		//Predicate
+		//Collector
+		//Function
+		//Supplier
+		//BiConsumer
 	}
 	
 }
